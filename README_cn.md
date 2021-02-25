@@ -1,13 +1,17 @@
 # Computer Networks
 
-[阅读中文版本](README_cn.md)
+<https://github.com/network-whu/2021>
 
-Thank you for your selection to enroll my course!
+<https://gitee.com/wuhanuniversity/computer-network>
 
-**Please leve your comment, suggestion, question in the comment feedback or send me emails!**
+********************
 
-This is the teaching resource repository for the courses of CS, Wuhan University:
-* 20202021762 "Computer Network"
+[English Version](README.md)
+
+**请在留言中留下你珍贵的评论、建议、疑问等教学反馈或直接给我发电子邮件!**
+
+武汉大学计算机学院课程:
+* 20202021762 《计算机网络》
 
 The Internet drives tremendous change in the world while continuously changing 
 and evolving itself. This course teaches the concepts and general principles of 
@@ -17,47 +21,45 @@ Learn about the structure and components of computer networks, packet switching,
 and layer architectures as well as a variety of applications. Gain the experience 
 and tools required to use and write protocols. Explore issues of network security.
 
-#### Prerequisites:
-* Principles of Computer Systems
+#### 前置课程:
+* 计算机组成原理
 * C / C++
-* Data structure
+* 数据结构
 
-Credits: 3.0
+学分: 3.0
 
-#### Topics include:
+#### 主要教学内容:
 * Web/http, voice-over-IP, p2p file sharing and socket programming
 * Reliable transport: TCP/IP, reliable transfer, flow control, and congestion control
 * The network layer: names and addresses, routing
 * Local area networks: ethernet and switches
 * Wireless networks and network security
 
-#### Instructor: 
-Professor Jicheng Hu
+主讲教师: 胡继承 教授
 
-## 1 Introduction to this repository
-From this repository we release slides and corresponding resources for the course 
-"Computer Network", offered by CS of Wuhan University.
+## 1 仓库介绍
+本仓库发布武汉大学胡继承教授所授课程《计算机网络》的幻灯片与资源。
 
-### 1.1 instruction slides:
+### 1.1 教学指导幻灯片:
 
-#### [0 Course Introduction](slides/instruction/introduction.pptx)
+#### [0 课程介绍](slides/instruction/introduction.pptx)
 
-#### [1 Overview](slides/instruction/01.pptx)
+#### [1 概述](slides/instruction/01.pptx)
 
-### 1.2 slides from text publisher:
+### 1.2 来自课本图书出版商的幻灯片:
 
-#### [1 Overview](slides/publisher/01.pptx)
+#### [1 概述](slides/publisher/01.pptx)
 
-## 2 git, github and gitee
+## 2 git, github 及 gitee
 
-In this course we will employ git as project management tool for teaching, training 
-and excercising. We highly recommand that our students use github as daily used 
-remote repositories for course learning, for the convenience of resource 
-searching and management from the whole github programmer's community. In the 
-meanwhile you may use gitee as a main backup source of remote repositories.
+本课程采用 git 作为项目管理工具并管理课程相关教学、训练及练习资源。
+建议大家以 github 作为主要的远程仓库方便获取丰富的程序员社区资源，
+而将 gitee 作为备份远程仓库来备份源码以备不时之需。尽量同时采用 github 
+与 gitee 来保存个人的源码及编码资源。
 
-From [https://git-scm.com/downloads](https://git-scm.com/downloads)
-you may download the most recent version of git and then make default installation.
+[git 下载地址 https://git-scm.com/downloads](https://git-scm.com/downloads)
+
+从上述官网下载 git 的最新版本进行缺省安装即可。
 
 ### 2.1 SSH Connection
 
