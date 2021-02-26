@@ -9,13 +9,17 @@ Thank you for your selection to enroll my course!
 This is the teaching resource repository for the courses of CS, Wuhan University:
 * 20202021762 "Computer Network"
 
-The Internet drives tremendous change in the world while continuously changing 
-and evolving itself. This course teaches the concepts and general principles of 
+The Internet has been driving tremendous change in the world since this century,
+while continuously changing and evolving on its own. 
+Formed a wave after wave of the Internet revolution.
+This course teaches the concepts and general principles of 
 the underlying networks of the Internet.
 
-Learn about the structure and components of computer networks, packet switching, 
-and layer architectures as well as a variety of applications. Gain the experience 
-and tools required to use and write protocols. Explore issues of network security.
+Through this course, we will learn about the structure and components of computer 
+networks, packet switching, and layer architectures as well as a variety of 
+network applications. 
+And familiar with the various protocols of computer network, 
+explore issues of network security.
 
 #### Prerequisites:
 * Principles of Computer Systems
@@ -61,31 +65,33 @@ you may download the most recent version of git and then make default installati
 
 ### 2.1 SSH Connection
 
-使用 git 工具来管理项目, 通常会使用 SSH 来连接代码仓库。win10 下如何
-安装 SSH client 参见:
 
-[win10 安装SSH](git/ssh_client.md)
+Use git tools to manage projects, often using SSH to connect to code repositories. 
+How to install win10 SSH client please refer:
+
+[Install SSH on Win10](git/ssh_client.md)
 
 
-生成并使用 ssh-key:
+Generate and use ssh-key:
 
-[参见 ssh-key](git/ssh_gitee.md)
+[Please refer to ssh-key](git/ssh_gitee.md)
 
 
 ### 2.2 Push to Remote Repositories
 
-同步本地仓库到 github 与 gitee 的方法参见：
+The method of synchronizing the local repository to 
+github and gitee can be found at:
 
-[同步推送本地仓库到 gitee 与 github](git/gitee_n_github.md)
+[synchronizing the local repository to gitee and github](git/gitee_n_github.md)
 
 #### 2.2.1  github
 
-github extension 的安装参见教学幻灯片。
+The installation of github extension can be found on the instructional slide.
 
 #### 2.2.2  gitee
 
-事实上 github extension 已经可以涵盖 gitee extension 的作用。
-gitee 的 VS extension 下载地址:
+In fact, github extension already covers the role of gitee extension.
+VS extension download address for gitee:
 
 https://marketplace.visualstudio.com/items?itemName=GiteeInc.GiteeExtension
 
@@ -95,6 +101,9 @@ https://marketplace.visualstudio.com/items?itemName=GiteeInc.GiteeExtension
 
 ## 3 refs
 
+[History slides for 2020](history_slides/README.md)
+
+[History lab resources](history_labs/README.md)
 
 ## Academic Integrity
 

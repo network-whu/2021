@@ -1,4 +1,4 @@
-# Computer Networks
+# 计算机网络
 
 <https://github.com/network-whu/2021>
 
@@ -13,13 +13,13 @@
 武汉大学计算机学院课程:
 * 20202021762 《计算机网络》
 
-The Internet drives tremendous change in the world while continuously changing 
-and evolving itself. This course teaches the concepts and general principles of 
-the underlying networks of the Internet.
+本世纪以来互联网推动着世界发生了巨大的变化，同时自身不断演化发展，
+形成了一波又一波的互联网浪潮。
+本课程讲授互联网背后的基础 ——— 计算机网络的概念和一般原理。
 
-Learn about the structure and components of computer networks, packet switching, 
-and layer architectures as well as a variety of applications. Gain the experience 
-and tools required to use and write protocols. Explore issues of network security.
+通过本课程的学习我们将了解计算机网络的结构和组成、
+分组交换、分层架构以及各种网络应用程序。
+并熟悉计算机网络的各种协议，探索网络安全问题。
 
 #### 前置课程:
 * 计算机组成原理
@@ -29,11 +29,11 @@ and tools required to use and write protocols. Explore issues of network securit
 学分: 3.0
 
 #### 主要教学内容:
-* Web/http, voice-over-IP, p2p file sharing and socket programming
-* Reliable transport: TCP/IP, reliable transfer, flow control, and congestion control
-* The network layer: names and addresses, routing
-* Local area networks: ethernet and switches
-* Wireless networks and network security
+* Web/http、IP 语音、p2p 文件共享及套接字编程
+* 可靠传输: TCP/IP 协议、传输可靠性、流控制及拥塞控制
+* 网络层: 域名和地址、路由
+* 局域网：以太网和交换机
+* 无线网络及信息安全
 
 主讲教师: 胡继承 教授
 
@@ -95,7 +95,11 @@ https://marketplace.visualstudio.com/items?itemName=GiteeInc.GiteeExtension
 
 ### [2.4 New git preview features](git/preview_features.md)
 
-## 3 refs
+## 3 历史资料
+
+[History slides for 2020](history_slides/README.md)
+
+[History lab resources](history_labs/README.md)
 
 
 ## Academic Integrity
