@@ -1,6 +1,6 @@
 # Computer Networks
 
-[ÔÄ¶ÁÖÐÎÄ°æ±¾](README_cn.md)
+[é˜…è¯»ä¸­æ–‡ç‰ˆæœ¬](README_cn.md)
 
 Thank you for your selection to enroll my course!
 
