@@ -48,9 +48,29 @@ From this repository we release slides and corresponding resources for the cours
 
 #### [1 Overview](slides/instruction/01.pptx)
 
+#### [2 Physical Layer](slides/instruction/02.pptx)
+
+#### [3 Data Link Layer](slides/instruction/03.pptx)
+
+#### [4 Network Layer](slides/instruction/04.pptx)
+
+#### [5 Transport Layer](slides/instruction/05.pptx)
+
+#### [6 Application Layer](slides/instruction/06.pptx)
+
 ### 1.2 slides from text publisher:
 
 #### [1 Overview](slides/publisher/01.pptx)
+
+#### [2 Physical Layer](slides/publisher/02.pptx)
+
+#### [3 Data Link Layer](slides/publisher/03.pptx)
+
+#### [4 Network Layer](slides/publisher/04.pptx)
+
+#### [5 Transport Layer](slides/publisher/05.pptx)
+
+#### [6 Application Layer](slides/publisher/06.pptx)
 
 ## 2 git, github and gitee
 

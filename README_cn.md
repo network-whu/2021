@@ -46,9 +46,29 @@
 
 #### [1 概述](slides/instruction/01.pptx)
 
+#### [2 物理层](slides/instruction/02.pptx)
+
+#### [3 数据链路层](slides/instruction/03.pptx)
+
+#### [4 网络层](slides/instruction/04.pptx)
+
+#### [5 传输层](slides/instruction/05.pptx)
+
+#### [6 应用层](slides/instruction/06.pptx)
+
 ### 1.2 来自课本图书出版商的幻灯片:
 
 #### [1 概述](slides/publisher/01.pptx)
+
+#### [2 物理层](slides/publisher/02.pptx)
+
+#### [3 数据链路层](slides/publisher/03.pptx)
+
+#### [4 网络层](slides/publisher/04.pptx)
+
+#### [5 传输层](slides/publisher/05.pptx)
+
+#### [6 应用层](slides/publisher/06.pptx)
 
 ## 2 git, github 及 gitee
 
